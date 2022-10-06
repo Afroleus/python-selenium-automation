@@ -1,0 +1,20 @@
+Amazon Logo:
+//*[@id="a-page"]/div[1]/div[1]/div/a/i
+Create Account Text:
+//*[@id="ap_register_form"]/div/div/h1
+Your Name Field:
+//*[@id="ap_customer_name"]
+Email Input Field:
+//*[@id="ap_email"]
+Password Field:
+//*[@id="ap_password"]
+Re-Enter Password Field:
+//*[@id="ap_password_check"]
+Create Amazon Account Button:
+//*[@id="continue"]
+Conditions of Use Button:
+//*[@id="legalTextRow"]/a[1]
+Privacy Notice Button:
+//*[@id="legalTextRow"]/a[2]
+Sign In Button:
+//*[@id="ap_register_form"]/div/div/div[9]/a
